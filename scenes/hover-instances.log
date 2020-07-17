@@ -1,0 +1,76 @@
+Exporter version: 6.4.2, Blender version: 2.83.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /home/griga/projects/games/babylonjs-resources/scenes/
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Cube
+		processing begun of material:  Material.001
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.001
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.002
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.003
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.004
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.005
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.006
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.007
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.008
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.009
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.010
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.011
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.012
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.013
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.014
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.015
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.016
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.017
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.018
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.019
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.020
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.021
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.022
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.023
+		mesh is an instance of :  Cube.  Processing halted.
+	processing begun of mesh:  Cube.024
+		mesh is an instance of :  Cube.  Processing halted.
+========= Writing of JSON file started =========
+	writing mesh:  Cube
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0055 secs
