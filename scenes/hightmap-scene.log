@@ -1,0 +1,52 @@
+Exporter version: 6.4.2, Blender version: 2.83.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /home/griga/projects/games/babylonjs-resources/scenes/
+	Python World class constructor completed
+	processing begun of camera (ArcRotateCamera):  camera
+	processing begun of mesh:  ground
+		processing begun of material:  ground
+		num positions      :  16641
+		num normals        :  16641
+		num tangents       :  0
+		num uvs            :  33282
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32768
+	processing begun of mesh:  sphere
+		processing begun of material:  models
+		num positions      :  164
+		num normals        :  164
+		num tangents       :  0
+		num uvs            :  328
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  part-1
+		processing begun of material:  models
+		registered as also a user of material:  models
+		num positions      :  164
+		num normals        :  164
+		num tangents       :  0
+		num uvs            :  328
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  part-2
+		mesh is an instance of :  part-1.  Processing halted.
+	processing begun of node:  combined
+========= Writing of JSON file started =========
+	writing mesh:  ground
+	writing mesh:  sphere
+	writing mesh:  part-1
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.4014 secs
