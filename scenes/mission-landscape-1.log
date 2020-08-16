@@ -210,8 +210,8 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	processing begun of mesh:  loc-constructions-factory__system__ship-start
 		mesh is an instance of :  loc-space-port__system__ship-start.  Processing halted.
 	processing begun of node:  loc-constructions-factory__system__camera-start
-	WARNING: The following camera not visible in scene thus ignored: camera
-	WARNING: The following camera not visible in scene thus ignored: map-camera
+	processing begun of camera (ArcRotateCamera):  camera
+	processing begun of camera (UniversalCamera):  map-camera
 	processing begun of node:  system__direction__north
 	processing begun of node:  system__direction__south
 	processing begun of node:  system__root
@@ -261,4 +261,4 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	writing mesh:  system__death-field__loc-space-port
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.9911 secs
+elapsed time:  0 min, 3.0271 secs
