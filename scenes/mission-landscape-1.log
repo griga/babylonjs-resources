@@ -1,0 +1,264 @@
+Exporter version: 6.4.2, Blender version: 2.83.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /home/griga/projects/games/babylonjs-resources/scenes/
+	Python World class constructor completed
+	processing begun of mesh:  ground
+		processing begun of material:  ground
+		num positions      :  25551
+		num normals        :  25551
+		num tangents       :  0
+		num uvs            :  51102
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  50000
+	processing begun of node:  ground-control
+	processing begun of mesh:  ground-suround
+		processing begun of material:  ground
+		registered as also a user of material:  ground
+		num positions      :  168
+		num normals        :  168
+		num tangents       :  0
+		num uvs            :  336
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  286
+	processing begun of mesh:  lava
+		processing begun of material:  lava
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  0
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2
+	processing begun of mesh:  ground-north
+		processing begun of material:  ground
+		registered as also a user of material:  ground
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  ground-south
+		processing begun of material:  ground
+		registered as also a user of material:  ground
+		num positions      :  6
+		num normals        :  6
+		num tangents       :  0
+		num uvs            :  12
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4
+	processing begun of mesh:  lava-bulb
+		processing begun of material:  lava
+		registered as also a user of material:  lava
+		num positions      :  588
+		num normals        :  588
+		num tangents       :  0
+		num uvs            :  1176
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of mesh:  meteor
+		processing begun of material:  meteor
+		num positions      :  323
+		num normals        :  323
+		num tangents       :  0
+		num uvs            :  646
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+	processing begun of node:  meteors-root
+	processing begun of node:  lava-root
+	processing begun of mesh:  colony-dock-1
+		processing begun of material:  world-map_tower
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  45
+	processing begun of mesh:  colony-dom-1
+		processing begun of material:  colony sphere
+		num positions      :  1359
+		num normals        :  1359
+		num tangents       :  0
+		num uvs            :  2718
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  510
+	processing begun of mesh:  colony-dom-2
+		mesh is an instance of :  colony-dom-1.  Processing halted.
+	processing begun of mesh:  colony-joint-1
+		processing begun of material:  colony sphere
+		registered as also a user of material:  colony sphere
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  0
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  60
+	processing begun of mesh:  colony-dock-2
+		mesh is an instance of :  colony-dock-1.  Processing halted.
+	processing begun of mesh:  colony-dock-3
+		mesh is an instance of :  colony-dock-1.  Processing halted.
+	processing begun of mesh:  colony-joint-2
+		mesh is an instance of :  colony-joint-1.  Processing halted.
+	processing begun of node:  loc-space-port
+	processing begun of mesh:  impostor__dom-1__sphere
+		processing begun of material:  system-material
+		num positions      :  601
+		num normals        :  601
+		num tangents       :  0
+		num uvs            :  1202
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  impostor__dom-2__sphere
+		mesh is an instance of :  impostor__dom-1__sphere.  Processing halted.
+	processing begun of mesh:  impostor__joint-1__box
+		processing begun of material:  system-material
+		registered as also a user of material:  system-material
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  impostor__dock-1__box
+		processing begun of material:  system-material
+		registered as also a user of material:  system-material
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  impostor__dock-2__box
+		mesh is an instance of :  impostor__dock-1__box.  Processing halted.
+	processing begun of mesh:  impostor__dock-3__box
+		mesh is an instance of :  impostor__dock-1__box.  Processing halted.
+	processing begun of node:  loc-space-port__impostor
+	processing begun of mesh:  loc-space-port__finish-sphere
+		processing begun of material:  finish-sphere
+		num positions      :  555
+		num normals        :  555
+		num tangents       :  0
+		num uvs            :  1110
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of mesh:  loc-space-port__system__ship-start
+		processing begun of material:  ship
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  loc-space-port__system__camera-start
+	processing begun of mesh:  colony-dock-4
+		mesh is an instance of :  colony-dock-1.  Processing halted.
+	processing begun of mesh:  colony-dom-3
+		mesh is an instance of :  colony-dom-1.  Processing halted.
+	processing begun of mesh:  colony-dom-4
+		mesh is an instance of :  colony-dom-1.  Processing halted.
+	processing begun of mesh:  colony-joint-4
+		mesh is an instance of :  colony-joint-1.  Processing halted.
+	processing begun of mesh:  colony-dock-5
+		mesh is an instance of :  colony-dock-1.  Processing halted.
+	processing begun of mesh:  colony-dock-6
+		mesh is an instance of :  colony-dock-1.  Processing halted.
+	processing begun of mesh:  colony-joint-3
+		mesh is an instance of :  colony-joint-1.  Processing halted.
+	processing begun of mesh:  colony-dom-5
+		mesh is an instance of :  colony-dom-1.  Processing halted.
+	processing begun of mesh:  colony-cylinder-5
+		mesh is an instance of :  colony-joint-1.  Processing halted.
+	processing begun of node:  loc-constructions-factory
+	processing begun of mesh:  impostor__dom-3__sphere
+		mesh is an instance of :  impostor__dom-1__sphere.  Processing halted.
+	processing begun of mesh:  impostor__dock-4__box
+		mesh is an instance of :  impostor__dock-1__box.  Processing halted.
+	processing begun of node:  loc-constructions-factory__impostor
+	processing begun of mesh:  impostor__dom-4__sphere
+		mesh is an instance of :  impostor__dom-1__sphere.  Processing halted.
+	processing begun of mesh:  impostor__dom-5__sphere
+		mesh is an instance of :  impostor__dom-1__sphere.  Processing halted.
+	processing begun of mesh:  impostor__dock-5__box
+		mesh is an instance of :  impostor__dock-1__box.  Processing halted.
+	processing begun of mesh:  impostor__dock-6__box
+		mesh is an instance of :  impostor__dock-1__box.  Processing halted.
+	processing begun of mesh:  loc-constructions-factory__finish-sphere
+		mesh is an instance of :  loc-space-port__finish-sphere.  Processing halted.
+	processing begun of mesh:  loc-constructions-factory__system__ship-start
+		mesh is an instance of :  loc-space-port__system__ship-start.  Processing halted.
+	processing begun of node:  loc-constructions-factory__system__camera-start
+	WARNING: The following camera not visible in scene thus ignored: camera
+	WARNING: The following camera not visible in scene thus ignored: map-camera
+	processing begun of node:  system__direction__north
+	processing begun of node:  system__direction__south
+	processing begun of node:  system__root
+	processing begun of mesh:  system__lava-field-1
+		processing begun of material:  system-material
+		registered as also a user of material:  system-material
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  system__lava-field-2
+		mesh is an instance of :  system__lava-field-1.  Processing halted.
+	processing begun of mesh:  system__death-field__loc-space-port
+		processing begun of material:  system-material
+		registered as also a user of material:  system-material
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  system__death-field__loc-constructions-factory
+		mesh is an instance of :  system__death-field__loc-space-port.  Processing halted.
+	processing begun of light (HEMI FROM AREA):  light-hemispheric
+	processing begun of light (DIRECTIONAL):  light-sun
+========= Writing of JSON file started =========
+	writing mesh:  ground
+	writing mesh:  ground-suround
+	writing mesh:  lava
+	writing mesh:  ground-north
+	writing mesh:  ground-south
+	writing mesh:  lava-bulb
+	writing mesh:  meteor
+	writing mesh:  colony-dock-1
+	writing mesh:  colony-dom-1
+	writing mesh:  colony-joint-1
+	writing mesh:  impostor__dom-1__sphere
+	writing mesh:  impostor__joint-1__box
+	writing mesh:  impostor__dock-1__box
+	writing mesh:  loc-space-port__finish-sphere
+	writing mesh:  loc-space-port__system__ship-start
+	writing mesh:  system__lava-field-1
+	writing mesh:  system__death-field__loc-space-port
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.9911 secs
