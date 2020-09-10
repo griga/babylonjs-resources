@@ -13,13 +13,13 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	Python World class constructor completed
 	processing begun of mesh:  ground
 		processing begun of material:  ground
-		num positions      :  25551
-		num normals        :  25551
+		num positions      :  25555
+		num normals        :  25555
 		num tangents       :  0
-		num uvs            :  51102
+		num uvs            :  51110
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  50000
+		num triangles      :  50008
 	processing begun of node:  ground-control
 	processing begun of mesh:  ground-suround
 		processing begun of material:  ground
@@ -270,4 +270,4 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	writing mesh:  system__death-field__loc-space-port
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 2.8114 secs
+elapsed time:  0 min, 2.1574 secs
