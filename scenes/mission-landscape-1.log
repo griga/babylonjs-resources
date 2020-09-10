@@ -9,7 +9,7 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  /home/griga/projects/games/babylonjs-resources/scenes/
+		Texture directory   :  /home/griga/projects/games/airnoria/apps/portals/src/assets/babylon/
 	Python World class constructor completed
 	processing begun of mesh:  ground
 		processing begun of material:  ground
@@ -92,10 +92,10 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 		num triangles      :  45
 	processing begun of mesh:  colony-dom-1
 		processing begun of material:  colony sphere
-		num positions      :  1359
-		num normals        :  1359
+		num positions      :  1360
+		num normals        :  1360
 		num tangents       :  0
-		num uvs            :  2718
+		num uvs            :  2720
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  510
@@ -104,10 +104,10 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	processing begun of mesh:  colony-joint-1
 		processing begun of material:  colony sphere
 		registered as also a user of material:  colony sphere
-		num positions      :  149
-		num normals        :  149
+		num positions      :  146
+		num normals        :  146
 		num tangents       :  0
-		num uvs            :  298
+		num uvs            :  292
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  60
@@ -120,10 +120,10 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	processing begun of node:  loc-space-port
 	processing begun of mesh:  impostor__dom-1__sphere
 		processing begun of material:  system-material
-		num positions      :  601
-		num normals        :  601
+		num positions      :  606
+		num normals        :  606
 		num tangents       :  0
-		num uvs            :  1202
+		num uvs            :  1212
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  224
@@ -163,6 +163,7 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  960
+	processing begun of node:  loc-space-port__system__camera-start
 	processing begun of mesh:  loc-space-port__system__ship-start
 		processing begun of material:  ship
 		num positions      :  29
@@ -172,7 +173,6 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  12
-	processing begun of node:  loc-space-port__system__camera-start
 	processing begun of mesh:  colony-dock-4
 		mesh is an instance of :  colony-dock-1.  Processing halted.
 	processing begun of mesh:  colony-dom-3
@@ -189,7 +189,7 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 		mesh is an instance of :  colony-joint-1.  Processing halted.
 	processing begun of mesh:  colony-dom-5
 		mesh is an instance of :  colony-dom-1.  Processing halted.
-	processing begun of mesh:  colony-cylinder-5
+	processing begun of mesh:  colony-joint-5
 		mesh is an instance of :  colony-joint-1.  Processing halted.
 	processing begun of node:  loc-constructions-factory
 	processing begun of mesh:  impostor__dom-3__sphere
@@ -207,10 +207,18 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 		mesh is an instance of :  impostor__dock-1__box.  Processing halted.
 	processing begun of mesh:  loc-constructions-factory__finish-sphere
 		mesh is an instance of :  loc-space-port__finish-sphere.  Processing halted.
-	processing begun of mesh:  loc-constructions-factory__system__ship-start
-		mesh is an instance of :  loc-space-port__system__ship-start.  Processing halted.
 	processing begun of node:  loc-constructions-factory__system__camera-start
-	processing begun of camera (ArcRotateCamera):  camera
+	processing begun of mesh:  loc-constructions-factory__system__ship-start
+		processing begun of material:  ship
+		registered as also a user of material:  ship
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of camera (ArcRotateCamera):  main-camera
 	processing begun of camera (UniversalCamera):  map-camera
 	processing begun of node:  system__direction__north
 	processing begun of node:  system__direction__south
@@ -257,8 +265,9 @@ Exporter version: 6.4.2, Blender version: 2.83.1
 	writing mesh:  impostor__dock-1__box
 	writing mesh:  loc-space-port__finish-sphere
 	writing mesh:  loc-space-port__system__ship-start
+	writing mesh:  loc-constructions-factory__system__ship-start
 	writing mesh:  system__lava-field-1
 	writing mesh:  system__death-field__loc-space-port
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.9976 secs
+elapsed time:  0 min, 2.8114 secs
